@@ -53,6 +53,29 @@ price_of_the_bottle   | Selling price of the bottle
 
 ### Excel is used for dashboard and data visualization.
   ## Dashboard
+  
+![image (2)](https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/f05ca944-bd1e-4644-9134-8d43e3ee9ab9)
+
+ ## Insights from the Dashboard
+
+- The most used ingredient is Arsenicum album
+- The number of medicines in the benefits area Digestion is highest.
+- SBL Pvt Ltd has the highest average number of customer ratings.
+- The brand SBL Pvt Ltd has most greater than 4-point review medicines.
+- SBL Pvt Ltd and Bjain Pharmaceutical Pvt Ltd are the two brands that are used most among the benefit areas.
+- The Brand SBL Pvt Ltd has the highest number of medicines of where a number of ratings is present.
+
+## Challenges and learnings
+
+- **Website Ban**: Faced repeated bans on the 1Mg official website during data scraping attempts.
+- **Google Colab Solution**: Resolved the issue by migrating scraping operations to Google Colab.
+- **Extended Scraping Time**: Extracting details of each medicine took more time than anticipated.
+- **Duplicate Data Issue**: Encountered delays due to duplicate data in the scraping process.
+- **Learning Efficiency**: Gained insights into optimizing scraping methods for speed and accuracy.
+
+## Conclusions
+
+Despite challenges in data scraping and extended collection time, this project recommends prioritizing "Digestion" benefit area medicines and considering products from SBL Pvt Ltd for a homeopathic store. The experience underscores the significance of adaptability, efficiency, and meticulous analysis in informed decision-making for the retail of homeopathic medicine.
 
 
 
