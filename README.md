@@ -31,4 +31,25 @@ price_of_the_bottle   | Selling price of the bottle
 
 <img width="900" alt="image" src="https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/0881031c-2ce7-4b25-86b6-43f8b6198a85">
 
+### For Table - 2
+
+<img width="900" alt="image" src="https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/24f5036a-f40c-49e1-935d-bb8699221f7d">
+
+### Analysis was done with the help of Pandas and Excel.
+
+- **Insights were generated from the above analysis.**
+
+  1). **The number of medicines in the benefits area Digestion is highest.**
+  
+  ![img2](https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/e42737e0-6359-43b7-b181-80d75675678c)
+
+  2). **Bhargava Phytolab has the highest number of customer ratings, i.e.1008.**
+  
+  ![img3](https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/63d93dd6-4a99-4f78-be4c-6595fa107a30)
+
+  3). **The brand SBL Pvt Ltd has most greater than 4-point review medicines.**
+  
+  ![image](https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/17dff270-ec40-45ed-b510-7c718d6c5712)
+
+
 
