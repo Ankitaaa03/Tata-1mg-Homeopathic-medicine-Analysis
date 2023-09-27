@@ -23,3 +23,12 @@ size_of_the_bottle    | Size of the medicine bottle or pack
 MRP_of_the_bottle     | Industry of the company from which the job is
 price_of_the_bottle   | Selling price of the bottle
 1mg_url               | 1mg url where the medicine sold
+##  Methodology
+
+- **Scraped the data with the help of Python BeautifulSoup library.**
+
+### For Table - 1
+
+<img width="900" alt="image" src="https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/0881031c-2ce7-4b25-86b6-43f8b6198a85">
+
+
