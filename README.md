@@ -29,7 +29,7 @@ price_of_the_bottle   | Selling price of the bottle
 
 ### For Table - 1
 
-<img width="900" alt="image" src="https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/0881031c-2ce7-4b25-86b6-43f8b6198a85">
+<img width="900" alt="image" src="https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/9e5c6dfe-1f9e-4365-aca0-61fa97839172">
 
 ### For Table - 2
 
@@ -50,6 +50,10 @@ price_of_the_bottle   | Selling price of the bottle
   3). **The brand SBL Pvt Ltd has most greater than 4-point review medicines.**
   
   ![image](https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/17dff270-ec40-45ed-b510-7c718d6c5712)
+
+### Excel is used for dashboard and data visualization.
+  ## Dashboard
+
 
 
 
