@@ -25,11 +25,24 @@ price_of_the_bottle   | Selling price of the bottle
 1mg_url               | 1mg url where the medicine sold
 ##  Methodology
 
-- **Scraped the data with the help of Python BeautifulSoup library.**
-
 ### For Table - 1
+**Scraped the data with the help of Python BeautifulSoup library.**
+1. Imported libraries including requests for making HTTP requests, for parsing HTML content.
+2. Created empty lists as Name, Sizes, MRPs , Prices, URLs to hold product-related information.
 
-<img width="900" alt="image" src="https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/9e5c6dfe-1f9e-4365-aca0-61fa97839172">
+![img](https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/f995a316-122d-4c8d-8228-864dc663ce81)
+
+3. To scrape data from multiple pages, a variable called page is initialized with the value 1.
+4. This variable helps in moving from one page to the next during the scraping process.
+
+![img1](https://github.com/Ankitaaa03/Tata-1mg-Homeopathic-medicine-Analysis/assets/133629631/0484adab-23a6-4959-89c3-873d3cb51654)
+
+5. Used While to scrape data  until it finds a "Page not found" message, indicating the end of available pages.
+6. After scraping data from the current page, the script increments the page variable to move on to the next page.
+
+
+
+
 
 ### For Table - 2
 
